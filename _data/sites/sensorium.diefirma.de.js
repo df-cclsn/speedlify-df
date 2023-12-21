@@ -11,10 +11,10 @@ module.exports = {
 		freshChrome: "site"
 	},
 	urls: [
-		"https://sensorium.diefirma.de/",
-    "https://sensorium.diefirma.de/kultur",
-    "https://sensorium.diefirma.de/marke/",
-    "https://sensorium.diefirma.de/storytelling/",
-    "https://sensorium.diefirma.de/ux/",
+		"https://sensorium.diefirma.de",
+    		"https://sensorium.diefirma.de/kultur/",
+    		"https://sensorium.diefirma.de/marke/",
+    		"https://sensorium.diefirma.de/storytelling/",
+    		"https://sensorium.diefirma.de/ux/",
 	]
 };
