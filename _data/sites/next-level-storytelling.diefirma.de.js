@@ -12,6 +12,6 @@ module.exports = {
 	},
 	urls: [
 		"https://next-level-storytelling.diefirma.de",
-    "https://next-level-storytelling.diefirma.de/kurse/",
+    		"https://next-level-storytelling.diefirma.de/kurse/",
 	]
 };
