@@ -14,6 +14,7 @@ module.exports = {
 		"https://www.diefirma.de",
         	"https://www.diefirma.de/de/projekte",
         	"https://www.diefirma.de/de/leistungen",
+		"https://www.diefirma.de/de/leistungen/ux",
         	"https://www.diefirma.de/de/blog",
         	"https://www.diefirma.de/de/blog/employee-brands",
         	"https://www.diefirma.de/de/projekte/1822direkt-design-systeme",
